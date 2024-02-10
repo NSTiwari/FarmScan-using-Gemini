@@ -23,7 +23,7 @@ val GenerativeViewModelFactory = object : ViewModelProvider.Factory {
                     // for multimodal text generation
                     val generativeModel = GenerativeModel(
                         modelName = "gemini-pro-vision",
-                        apiKey = "AIzaSyBP2nwyiSeFDb1H74XtQVrZGwQjlvfREWU",
+                        apiKey = "YOUR_API_KEY",
                         generationConfig = config
                     )
                     ImageInterpretationViewModel(generativeModel)
