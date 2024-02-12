@@ -7,6 +7,7 @@ FarmScan: Farmer's Assistance is an implementation of using the Google Pro Visio
 2. Open the project in Android Studio.
 3. Get the Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey) and paste it in the ```Android_App/app/src/main/java/com/example/farmscan/GenerativeAiViewModelFactory.kt``` file on **Line 26**.
 4. Build the project.
+5. Install the Android app on your phone and enjoy using FarmScan. 
 
 
 ![267A2E0C-73D5-44EF-BBE0-32F9C35F70E0-removebg-preview](https://github.com/NSTiwari/FarmScan-using-Gemini/assets/25379502/9754f73d-8524-4286-93ac-20fb728f9633)
