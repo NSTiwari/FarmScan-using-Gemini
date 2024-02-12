@@ -4,7 +4,7 @@ FarmScan: Farmer's Assistance is an implementation of using the Google Pro Visio
 ## Steps to run:
 
 1. Clone the repository on your local machine.
-2. 
+2. Open the project in Android Studio.
 
 
 ![267A2E0C-73D5-44EF-BBE0-32F9C35F70E0-removebg-preview](https://github.com/NSTiwari/FarmScan-using-Gemini/assets/25379502/9754f73d-8524-4286-93ac-20fb728f9633)
