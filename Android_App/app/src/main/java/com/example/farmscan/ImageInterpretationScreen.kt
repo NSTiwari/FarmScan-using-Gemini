@@ -193,16 +193,6 @@ fun ImageInterpretationScreen(
                             .padding(all = 16.dp)
                             .fillMaxWidth()
                     ) {
-                        /* Icon(
-                            Icons.Outlined.Person,
-                            contentDescription = "Person Icon",
-                            tint = MaterialTheme.colorScheme.onSecondary,
-                            modifier = Modifier
-                                .requiredSize(36.dp)
-                                .drawBehind {
-                                    drawCircle(color = Color.White)
-                                }
-                        )*/  // changed by me.
                         Text(
                             text = uiState.outputText,
                             color = Color(0xFFF9FFFF),
