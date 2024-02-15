@@ -157,7 +157,6 @@ fun ImageInterpretationScreen(
             colors = ButtonDefaults.buttonColors(
                 containerColor = Color(0xFF005D4A),
                 contentColor = Color(0xFFFFFFFF))
-            //.align(Alignment.CenterVertically)
         ) {
             Text("Submit")
 
