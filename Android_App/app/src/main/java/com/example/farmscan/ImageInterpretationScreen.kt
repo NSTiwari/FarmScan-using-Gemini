@@ -140,7 +140,7 @@ fun ImageInterpretationScreen(
                     contentDescription = null,
                     modifier = Modifier
                         .padding(4.dp)
-                        .requiredSize(300.dp) // changed by me.
+                        .requiredSize(300.dp) // Image size: 300x300.
                 )
             }
         }
