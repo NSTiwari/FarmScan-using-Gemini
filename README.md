@@ -22,6 +22,6 @@ https://github.com/NSTiwari/FarmScan-using-Gemini/assets/25379502/d8d989a2-3e61-
 
 
 # Acknowledgment:
-<img src="https://github.com/NSTiwari/FarmScan-using-Gemini/blob/main/google.png" width="300" height="300">
+<img src="https://github.com/NSTiwari/FarmScan-using-Gemini/blob/main/google.png">
 
 Developed during Google's ML Developer Programs Gemini sprint, this project benefited from generous GCP credits that facilitated its completion. We express our gratitude for the support provided.
