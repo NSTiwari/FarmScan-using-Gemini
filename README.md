@@ -19,3 +19,8 @@ https://github.com/NSTiwari/FarmScan-using-Gemini/assets/25379502/d8d989a2-3e61-
 # Resources:
 - Try it on Hugging Face Spaces: https://huggingface.co/spaces/Aashi/FarmScan
 - Generate API Key: https://makersuite.google.com/app/apikey
+
+
+# Acknowledgment:
+![267A2E0C-73D5-44EF-BBE0-32F9C35F70E0-removebg-preview](https://github.com/NSTiwari/FarmScan-using-Gemini/blob/main/google.png)
+Developed during Google's ML Developer Programs Gemini sprint, this project benefited from generous GCP credits that facilitated its completion. We express our gratitude for the support provided.
